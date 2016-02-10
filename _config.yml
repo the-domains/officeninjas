@@ -2,6 +2,7 @@ name: OfficeNinjas
 favicon: null
 layout_spectrum: 0.3577123456634581
 typography_spectrum: 0.5120534393936396
+title: OfficeNinjas
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#333332'
+    - '#96c93d'
+    - '#6b6b6a'
+    - '#779a39'
   brandStrength: 0.5917604353744537
   lightness: 0.2105955232400447
   saturation: 0.21299621323123574
-  rhythmicContrast: 0.8820577848237008
+  rhythmicContrast: 1
 purpose: []
